@@ -11,10 +11,6 @@
 }
 
 :root {
-    --main-color-one:#242F40;
-    --main-color-two:#E5E5E5;
-    --main-color-three:#363636;
-    --main-color-four:white;
     --main-font-size: 20px;
 }
 
@@ -193,7 +189,7 @@ p {
 
 #learning_styles {
     padding-top: 40px;
-    height: 450px;
+    height: 480px;
 }
 
 .learning_styles_img {
@@ -214,7 +210,7 @@ p {
 }
 
 .five-factors {
-    min-height: 900px;
+    min-height: 1050px;
 }
 
 
